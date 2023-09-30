@@ -15,6 +15,20 @@ body {
     color: #ffffff;
 }
 
+.search:hover {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);
+    transition: box-shadow 0.3s ease;
+  }
+  .reputation:hover {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);
+    transition: box-shadow 0.3s ease;
+  }
+  .social:hover {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);
+    transition: box-shadow 0.3s ease;
+  }
+
+  
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -57,11 +71,13 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    
 }
 
 .float-left {
     float: left;
     margin-right: 25px;
+    
 }
 
 .float-right {
@@ -198,3 +214,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
