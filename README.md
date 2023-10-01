@@ -42,6 +42,7 @@ The code has been amended to provide improved accessibility via adding semantics
 Thanks to AskBCS for help understanding CSS selectors.
 
 Pages used for reference and information
+
 [Introduction to Semantic HTML](https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i)
 
 [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
