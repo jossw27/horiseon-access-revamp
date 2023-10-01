@@ -18,6 +18,7 @@ You will need to use your terminal if on Mac or Linux or install GitBash if on W
   git@github.com:jossw27/horiseon-access-revamp.git
    ``` 
 [GitHub Introduction](https://digital.gov/resources/an-introduction-github/)
+
 [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 2. Install Visual Studio Code if needed [Visual Studio Code: Windows, Linux, Mac](https://code.visualstudio.com/download)
@@ -41,15 +42,15 @@ The code has been amended to provide improved accessibility via adding semantics
 Thanks to AskBCS for help understanding CSS selectors.
 
 Pages used for reference and information
-*[Introduction to Semantic HTML](https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i)
+[Introduction to Semantic HTML](https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i)
 
-*[HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+[HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-*[CSS Selectors](https://www.w3schools.com/cssref/css_selectors.php_)
+[CSS Selectors](https://www.w3schools.com/cssref/css_selectors.php_)
 
-*[Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+[Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
-*[Best README guide](https://github.com/othneildrew/Best-README-Template)
+[Best README guide](https://github.com/othneildrew/Best-README-Template)
 
 
 
