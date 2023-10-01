@@ -12,14 +12,15 @@ The orignal code provided has been improved to allow optimisation as well as imp
 ## Installation
 
 1. Clone the repository (repo). You may need to create a folder if not done so already. Once the folder as been created, navigate to it in the terminal and then clicking on the copy symbol below, you can paste the repo address.
-You will need to use your terminal if on Mac or Linux or install GitBash if on Windows to add this to your PC [GitBash] (https://gitforwindows.org/)
+You will need to use your terminal if on Mac or Linux or install GitBash if on Windows to add this to your PC 
+[GitBash](https://gitforwindows.org/)
   ```sh
   git@github.com:jossw27/horiseon-access-revamp.git
    ``` 
-[GitHub Introduction] (https://digital.gov/resources/an-introduction-github/)
+[GitHub Introduction](https://digital.gov/resources/an-introduction-github/)
 [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-2. Install Visual Studio Code if needed [Visual Studio Code for Windows, Linux, Mac] (https://code.visualstudio.com/download)
+2. Install Visual Studio Code if needed [Visual Studio Code: Windows, Linux, Mac](https://code.visualstudio.com/download)
 
 3. Once installed, go back to your terminal and run code . (code space dot) to open the repo within Visual Studio.
 
@@ -40,11 +41,15 @@ The code has been amended to provide improved accessibility via adding semantics
 Thanks to AskBCS for help understanding CSS selectors.
 
 Pages used for reference and information
-[Introduction to Semantic HTML](https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i)
-[HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
-[CSS Selectors](https://www.w3schools.com/cssref/css_selectors.php_)
-[Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-[Best README guide](https://github.com/othneildrew/Best-README-Template)
+*[Introduction to Semantic HTML](https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i)
+
+*[HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+*[CSS Selectors](https://www.w3schools.com/cssref/css_selectors.php_)
+
+*[Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+*[Best README guide](https://github.com/othneildrew/Best-README-Template)
 
 
 
@@ -55,4 +60,6 @@ Please refer to the LICENSE in the repo
 
 
 ## Badges
-![SemanticAccessibilty] https://img.shields.io/badge/Accessibility_-Improving_Semantics-green ![VisualStudio] https://img.shields.io/badge/Open_in_Visual_Studio_Code-blue ![HTMLCSS] https://img.shields.io/badge/HTML_-CSS-orange 
+ ![SemanticAccessibilty](https://img.shields.io/badge/Accessibility_-Improving_Semantics-green)
+ ![VisualStudio](https://img.shields.io/badge/Open_in_Visual_Studio_Code-blue)
+ ![HTMLCSS](https://img.shields.io/badge/HTML_-CSS-orange)
