@@ -1,4 +1,4 @@
-# horiseon-access-revamp
+# Horiseon Access Revamp
  Consilidated application updating HTML & CSS for semantic & accessibilty improvements
 # <Horiseon-Access-Revamp>
 
